@@ -2,9 +2,7 @@
 
 This is a blogging website, where users can set a topic/post and other users can put comments on posts. 
 
-Things you may want to cover:
-
- Ruby version :  
+ Ruby version : 2.2.2  
 
 The blogging website wil be deployed true Heroku. Later on i will add de URL. 
 
